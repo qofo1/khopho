@@ -20,7 +20,7 @@
          //Assign Result set
          
          $result = $this->db->resultSet();
-         return $result;
+         return $results;
      }
      
  }
